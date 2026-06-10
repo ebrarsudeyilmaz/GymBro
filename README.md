@@ -53,27 +53,49 @@ add_trainer.php      => Antrenör ekleme
 list_trainers.php    => Antrenör listesi
 
 edit_trainer.php     => Antrenör düzenleme
+
 delete_trainer.php   => Antrenör silme
+
 add_program.php      => Antrenman programı ekleme
+
 list_program.php     => Program listesi
+
 edit_program.php     => Program düzenleme
+
 delete_program.php   => Program silme
+
 add_exercise.php     => Egzersiz ekleme
+
 list_exercise.php    => Egzersiz listesi
+
 edit_exercise.php    => Egzersiz düzenleme
+
 delete_exercise.php  => Egzersiz silme
+
 add_meal.php         => Yemek ekleme
+
 list_meal.php        => Yemek listesi
+
 edit_meal.php        => Yemek düzenleme
+
 delete_meal.php      => Yemek silme
+
 add_water.php        => İçilen su miktarını ekleme
+
 list_water.php       => Su takibi listesi
+
 delete_water.php     => Su kaydı silme
+
 add_note.php         => Antrenör ve adminin not ekleme ekranı
+
 list_notes.php       => Not listesi
+
 edit_note.php        => Not düzenleme
+
 delete_note.php      => Not silme
+
 ekran görüntüleri    =>
+
 <img width="1915" height="903" alt="Ekran görüntüsü 2026-06-10 230030" src="https://github.com/user-attachments/assets/53b65552-fc92-4546-bff2-ee353244b647" />
 <img width="1918" height="911" alt="Ekran görüntüsü 2026-06-10 230019" src="https://github.com/user-attachments/assets/d4fc94c7-5e3b-4471-b04d-aa41eaf307c3" />
 <img width="1918" height="910" alt="Ekran görüntüsü 2026-06-10 230011" src="https://github.com/user-attachments/assets/8d5e2c9d-ab6c-4cd0-a5da-d17480cd7b13" />
