@@ -22,7 +22,7 @@ phpMyAdmin Veritabanı, HTML/CSS ve PHP kullanılmıştır.
 
       Dosya Yapısı
 
-db.php               => Veritabanı bağlantısı kuruldu.
+db.php               => Veritabanı bağlantısı kuruldu. 
 role_control.php     => Role göre erişim.
 sign_in.php          => Giriş sayfası.
 login.php            => Sign_in.php dosyasına aktarıyor. (Başka bir düşüncemiz vardı fakat çok fazla hata aldığımız ve bütün dosyalara tekrardan bakıp düzeltme yapacak vaktimiz olmadığı için böyle bir çözüm bulduk.)
