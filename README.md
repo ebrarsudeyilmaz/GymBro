@@ -23,20 +23,35 @@ phpMyAdmin Veritabanı, HTML/CSS ve PHP kullanılmıştır.
       Dosya Yapısı
 
 db.php               => Veritabanı bağlantısı kuruldu. 
+
 role_control.php     => Role göre erişim.
+
 sign_in.php          => Giriş sayfası.
+
 login.php            => Sign_in.php dosyasına aktarıyor. (Başka bir düşüncemiz vardı fakat çok fazla hata aldığımız ve bütün dosyalara tekrardan bakıp düzeltme yapacak vaktimiz olmadığı için böyle bir çözüm bulduk.)
+
 logout.php           => Çıkış yapıyor ve sign_in sayfasına aktarıyor.
+
 setup.php            => İlk admin kurulumu
+
 change_password.php  => Şifre değiştirmeye zorladığımız ve şifrelerin hashlendiği dosya.
+
 navbar.php           => Sayfalar arası geçiş ve rol kontrolü yaparak role göre içerik sunar.
+
 member_view.php      => Üye ekranı.
+
 add_member.php       => Üye ekleme 
+
 list_member.php      => Üye listesini görme
+
 edit_member.php      => Üye düzenle
+
 delete_member.php    => Üye silme
+
 add_trainer.php      => Antrenör ekleme
+
 list_trainers.php    => Antrenör listesi
+
 edit_trainer.php     => Antrenör düzenleme
 delete_trainer.php   => Antrenör silme
 add_program.php      => Antrenman programı ekleme
