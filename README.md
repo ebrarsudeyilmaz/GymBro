@@ -20,6 +20,10 @@ Antrenör = Sadece admin tarafından eklenebilir. Kendi üyelerine antrenman pro
 
 phpMyAdmin Veritabanı, HTML/CSS ve PHP kullanılmıştır.
 
+      YouTube Linki
+
+https://www.youtube.com/watch?v=OAf4ZSs7Yho
+
       Dosya Yapısı
 
 db.php               => Veritabanı bağlantısı kuruldu. 
